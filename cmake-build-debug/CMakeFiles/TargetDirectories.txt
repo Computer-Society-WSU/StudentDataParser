@@ -1,0 +1,3 @@
+/Users/isaachernandez/CLionProjects/StudentDataParser/cmake-build-debug/CMakeFiles/StudentDataParser.dir
+/Users/isaachernandez/CLionProjects/StudentDataParser/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/isaachernandez/CLionProjects/StudentDataParser/cmake-build-debug/CMakeFiles/rebuild_cache.dir
