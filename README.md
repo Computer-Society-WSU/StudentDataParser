@@ -12,6 +12,10 @@
 ## Introduction
 This software, created by **Isaias Hernandez**, is designed to parse IEEE/IEEE:Computer Society hackathon data. It processes student attendance data and generates a filtered list of students eligible for extra credit based on their participation.
 
+By following these instructions, you should be able to successfully run the software and process your attendance data.
+
+Thank you for rewarding your students with extra credit for their participation in the hackathon!
+We appreciate your support and dedication to enhancing their learning experience! - IEEE and IEEE:Computer Society WSU Chapter
 ---
 
 ## How to Use the Software
@@ -78,10 +82,8 @@ If you are not familiar with programming, follow these steps to clone the reposi
     - Open a terminal or command prompt.
     - Run the following command to clone the repository:
       ```bash
-      git clone https://github.com/YourRepo/StudentDataParser.git
+      git clone https://github.com/Computer-Society-WSU/StudentDataParser.git
       ```
-    - Replace `https://github.com/YourRepo/StudentDataParser.git` with the actual repository URL.
-
 3. **Install CLion or Visual Studio**:
     - Download and install either **CLion** or **Visual Studio** (see instructions above for Visual Studio).
 
@@ -98,5 +100,3 @@ If you are not familiar with programming, follow these steps to clone the reposi
     - The output file `IEEE_CS_Extra_Credit.csv` will be generated in the specified location.
 
 ---
-
-By following these instructions, you should be able to successfully run the software and process your attendance data.
